@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22759" started-at="2018-07-02T20:52:09Z" finished-at="2018-07-02T20:52:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22759" started-at="2018-07-02T20:52:09Z" finished-at="2018-07-02T20:52:32Z">
+      <class name="com.mockaroo.EbayTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mockaroo.EbayTest@39c0f4a]" name="setUp" is-config="true" duration-ms="3018" started-at="2018-07-02T20:52:09Z" finished-at="2018-07-02T20:52:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="dataForEbay()[pri:0, instance:com.mockaroo.EbayTest@39c0f4a]" name="dataForEbay" duration-ms="19710" started-at="2018-07-02T20:52:12Z" finished-at="2018-07-02T20:52:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataForEbay -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mockaroo.EbayTest@39c0f4a]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-07-02T20:52:32Z" finished-at="2018-07-02T20:52:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mockaroo.EbayTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
