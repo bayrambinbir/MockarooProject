@@ -29,7 +29,7 @@ GOALS:
 * Add all Countries to countrySet HashSet
 * Count how many unique cities are in Countries ArrayList and assert that it is matching with the count of countrySet HashSet.
 * Push the code to any GitHub repo that you have and submit the url
-* DOWNLOAD pdf for requirements at : https://github.com/bbinbir/MockarooProject/blob/master/src/test/java/com/mockaroo/MockarooProject.pdf
+* DOWNLOAD the pdf for requirements at : https://github.com/bbinbir/MockarooProject/blob/master/src/test/java/com/mockaroo/MockarooProject.pdf
 
 TOOLS USED:
 * Java, 
